@@ -1,0 +1,8 @@
+For the given assigment i have used BeautifulSoup library for the data scarpping.
+
+I First read the input.xlsx file and then use the for loop to iterate each URL in the file, 
+scarpped the title and Description from the URL and then performed operations to find the DATA VARIABLES 
+
+afte the operation is done saved the data variables in the dictionary , and then outside of the loop we convert the output to DataFrame.
+afte it converted the DataFrame into excel.
+
